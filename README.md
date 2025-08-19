@@ -1,2 +1,3 @@
 # delta-demo
-this is delta demo project as css
+this is delta demo project as css.
+
